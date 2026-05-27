@@ -1,6 +1,6 @@
 ## Dataset Source
 
-- The dataset used in this assignment is marketing_campaign_response_dataset (1)
+- The dataset used in this assignments 2 & 3 is marketing_campaign_response_dataset (1)
 - The file was emailed as an .xls attachement from the instructor and was converted to .csv in Jupyter Notebook. 
   
 ## Description
