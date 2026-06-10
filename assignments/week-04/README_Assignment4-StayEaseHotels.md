@@ -1,5 +1,11 @@
 # Week [04] – [Assignment4: Decision Tree Model and Business Interpretation Based on a Business Plan]
 
+## Files in This Folder
+- Assignment4_MBAI5310G_SheezaToor.ipynb: main notebook for the task
+- outputs/README_StayEaseHotels-DataPrepOutput.md
+- outputs/README_StayEaseHotels-ModelResultsOutput.md
+- StayEaseHotels-data_description.md: dataset provided by instructor 
+
 ## Task Overview - StayEase Boutique Hotels Business Plan for Booking Cancellation Predictions
 -  Building a Decision Tree classification model and interpret the results from a business perspective.
 
