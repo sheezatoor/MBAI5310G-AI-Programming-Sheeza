@@ -1,14 +1,6 @@
 # Week [04] – [Assignment4: Decision Tree Model and Business Interpretation Based on a Business Plan]
 
-## Files in This Folder
-- Assignment3_MBAI5310G_SheezaToor.ipynb: main notebook for the task
-- outputs/Assignment3_LogisticRegressionOutput.png: screenshot of Logistic Regression Model Output
-- outputs/Assignment3_SVMOutput.png: screenshot of SVM Model Output
-- outputs/Assignment3_ConfusionMatrix_LogisticRegression.png: screenshot of confusion matrix for Logistic Regression Model
-- outputs/Assignment3_ConfusionMatrix_SVM.png: screenshot of confusion matrix for SVM Model
-- data_description.md: dataset provided by instructor 
-
-## Task Overview
+## Task Overview - StayEase Boutique Hotels Business Plan for Booking Cancellation Predictions
 -  Building a Decision Tree classification model and interpret the results from a business perspective.
 
 ## Task 1: Understand the Business Problem 
