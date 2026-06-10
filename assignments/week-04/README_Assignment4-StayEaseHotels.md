@@ -1,7 +1,7 @@
 # Week [04] – [Assignment4: Decision Tree Model and Business Interpretation Based on a Business Plan]
 
 ## Files in This Folder
-- Assignment4_MBAI5310G_SheezaToor.ipynb: main notebook for the task
+- Assignment4:StayEaseHotels_MBAI5310G_SheezaToor.ipynb: main notebook for the task
 - outputs/README_StayEaseHotels-DataPrepOutput.md
 - outputs/README_StayEaseHotels-ModelResultsOutput.md
 - StayEaseHotels-data_description.md: dataset provided by instructor 
