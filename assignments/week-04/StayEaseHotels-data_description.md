@@ -5,7 +5,7 @@
   
 ## Description
 
-Dataset Contains the Following Columns Related to Marketing Campaign
+Dataset Contains the Following Columns 
 
 - Booking_ID
 - Booking_Date
