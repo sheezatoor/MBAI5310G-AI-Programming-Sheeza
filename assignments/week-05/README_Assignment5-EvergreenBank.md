@@ -2,8 +2,8 @@
 
 ## Files in This Folder
 - Assignment5_MBAI5310G_SheezaToor.ipynb: main notebook for the task
-- outputs/README_EvergreenBank-DataPrepOutput.md
-- outputs/README_EvergreenBank-ModelResultsOutput.md
+- outputs/Customer Clusters.png
+- outputs/Customer Segments.png
 - EvergreenBank-data_description.md: dataset provided by instructor 
 
 ## Task Overview
