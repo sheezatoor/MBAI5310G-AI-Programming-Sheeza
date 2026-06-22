@@ -2,7 +2,8 @@
 
 ## Files in This Folder
 - Assignment8_MBAI5310G_SheezaToor.ipynb: main notebook for the task
-- outputs/
+- outputs/NLP-ClassificationReport.png
+- outputs/NLP-TopTenFrequentWords_BarChart.png
 - NLP-data_description.md: dataset provided by instructor 
 
 ## Task Overview
