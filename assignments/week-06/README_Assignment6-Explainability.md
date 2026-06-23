@@ -2,7 +2,15 @@
 
 ## Files in This Folder
 - Assignment6_MBAI5310G_SheezaToor.ipynb: main notebook for the task
-- outputs/
+- outputs/LIME_plot.png
+- outputs/SHAP_barplot.png
+- outputs/comparison_table.png
+- outputs/confusion_matrix.png
+- outputs/cross_validation.png
+- outputs/error_types.png
+- outputs/gender_plot.png
+- outputs/overfitting_underfitting.png
+- outputs/top10_featureimportance.png
 - Explainability-data_description.md: dataset provided by instructor 
 
 ## Task Overview
