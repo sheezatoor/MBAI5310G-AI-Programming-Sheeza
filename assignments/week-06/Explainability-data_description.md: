@@ -1,0 +1,26 @@
+## Dataset Source
+
+- The dataset used in this Assignment6 - small_business_invoice_late_payment_dataset.csv
+- The file was emailed as an .csv attachement from the instructor.  
+  
+## Description
+
+Dataset Contains the Following Columns 
+
+- invoice_id
+- client_age
+- age_group
+- gender 
+- region 
+- client_type
+- industry 
+- contract_type
+- invoice amount
+- payment_term_days
+- previous_late_invoices
+- number_of_previous_late_invoices
+- days_since_last_invoice
+- client_satisfaction_score
+- reminder_emails_sent 
+- auto_payment_enabled 
+- invoice_paid_late
